@@ -1,0 +1,52 @@
+
+
+.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.headerh1 {
+  margin: 0;
+}
+
+.navul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navulli {
+  display: inline;
+  margin-right: 20px;
+}
+
+.navullia {
+  color: #fff;
+  text-decoration: none;
+}
+
+.main {
+  padding: 20px 0;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
